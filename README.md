@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N457Y
+- 👋 Hi, I’m @JanaReal
 - 👀 I’m interested in coding,editing,development,etc
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on #later 
